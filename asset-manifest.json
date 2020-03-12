@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calculate-matrix-determinant/static/css/main.1aed4586.chunk.css",
+    "main.js": "/calculate-matrix-determinant/static/js/main.f9e6216a.chunk.js",
+    "main.js.map": "/calculate-matrix-determinant/static/js/main.f9e6216a.chunk.js.map",
+    "runtime-main.js": "/calculate-matrix-determinant/static/js/runtime-main.7f5f54f7.js",
+    "runtime-main.js.map": "/calculate-matrix-determinant/static/js/runtime-main.7f5f54f7.js.map",
+    "static/js/2.95602ed3.chunk.js": "/calculate-matrix-determinant/static/js/2.95602ed3.chunk.js",
+    "static/js/2.95602ed3.chunk.js.map": "/calculate-matrix-determinant/static/js/2.95602ed3.chunk.js.map",
+    "index.html": "/calculate-matrix-determinant/index.html",
+    "precache-manifest.1ab87ad029878e54b03f9820939c3204.js": "/calculate-matrix-determinant/precache-manifest.1ab87ad029878e54b03f9820939c3204.js",
+    "service-worker.js": "/calculate-matrix-determinant/service-worker.js",
+    "static/css/main.1aed4586.chunk.css.map": "/calculate-matrix-determinant/static/css/main.1aed4586.chunk.css.map",
+    "static/js/2.95602ed3.chunk.js.LICENSE.txt": "/calculate-matrix-determinant/static/js/2.95602ed3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/calculate-matrix-determinant/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f5f54f7.js",
+    "static/js/2.95602ed3.chunk.js",
+    "static/css/main.1aed4586.chunk.css",
+    "static/js/main.f9e6216a.chunk.js"
+  ]
+}
